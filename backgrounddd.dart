@@ -37,7 +37,7 @@ class Background2 extends StatelessWidget {
             right: 30,
             child: Image.asset(
                 "assets/images/epoxy2.png",
-                width: size.width * 0.55
+                width: size.width * 0.50
             ),
           ),
           Positioned(
